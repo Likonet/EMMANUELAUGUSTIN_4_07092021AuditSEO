@@ -656,9 +656,13 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+  
 }
 
+h1 {
+
+  color: white;
+}
 .container {
     max-width: 1000px;
 }
@@ -725,7 +729,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: white!important;
 }
 
 h4 {
@@ -773,11 +777,12 @@ h4 {
 }*/
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+   /* background-color: #F3976C;*/
+    background-color: #93340B;
 }
 
 .tc-white {
-   color: #93340B;
+   color: white;
     
 }
 
